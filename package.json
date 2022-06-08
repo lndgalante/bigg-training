@@ -1,0 +1,11 @@
+{
+  "name": "bigg-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lndgalante/bigg-training.git",
+  "author": "Leonardo Galante <lndgalante@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.sample": "^4.2.1"
+  }
+}
